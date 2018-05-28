@@ -1,11 +1,1 @@
-Prev:<ul class="nav navbar-nav navbar-right">
-CUR:<ul class="nav navbar-nav navbar-right  pull-right">
-
-
-.top-menu {
-z-index:1000;
-}
-
-
-attendance
- return s.employee.key === filterValue.employee.key;
+.navbar-header{display: inline-block;}
